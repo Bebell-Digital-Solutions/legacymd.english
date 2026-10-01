@@ -2,7 +2,7 @@
 
 ![Logo](https://ik.imagekit.io/bebell/Bebell%20Digital%20Solutions/Consultorios%20Digitales/Icons/LegacyMD-logo-dark-sm.png)
 
-Digital Practice for Doctors
+# Digital Practice for Doctors
 
 <img src="https://ik.imagekit.io/bebell/Bebell%20Digital%20Solutions/Consultorios%20Digitales/Banners%20&%20Backgrounds/legacymd-main-banner-2.png" alt="LegacyMD Banner" width="100%">
 
